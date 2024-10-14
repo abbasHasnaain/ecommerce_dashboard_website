@@ -1,4 +1,6 @@
 eCommerce System
+
+
 This eCommerce System is a robust PHP-based platform designed to streamline online shopping for dealers, customers, and administrators. The system operates with four distinct roles: Admin, Dealer, Employee, and Customer. It provides a complete framework for dealers to set up their own shops, manage products, and assign employees, while customers can browse and search for products by name, category, or shop name.
 
 Key Roles and Features:
